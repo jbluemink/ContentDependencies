@@ -3,9 +3,13 @@
 	"items": {
 		"includes": [
 			{
-				"name": "ContentDependencyTypes",
+				"name": "ContentDependencyTypesSitertoot",
 				"path": "/sitecore/system/Settings/Layouts/Renderings/Content Dependency Types/Siteroot"
 			},
+			{
+				"name": "ContentDependencyTypesHomeItem",
+				"path": "/sitecore/system/Settings/Layouts/Renderings/Content Dependency Types/Home Item"
+			}
 		]
 	}
 }
