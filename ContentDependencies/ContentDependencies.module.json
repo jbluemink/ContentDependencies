@@ -1,0 +1,11 @@
+{
+	"namespace": "Foundation.ContentDependency",
+	"items": {
+		"includes": [
+			{
+				"name": "ContentDependencyTypes",
+				"path": "/sitecore/system/Settings/Layouts/Renderings/Content Dependency Types/Siteroot"
+			},
+		]
+	}
+}
