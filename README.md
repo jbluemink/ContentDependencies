@@ -5,7 +5,7 @@ includes:
 - option for Siteroot
 - option for Home Item
 
-![Sitecore Rendering new options content dependencies](https://raw.githubusercontent.com/jbluemink/ContentDependencies/Sitecore-rendering-new-options-content-dependencies.jpg)
+![Sitecore Rendering new options content dependencies](https://raw.githubusercontent.com/jbluemink/ContentDependencies/master/Sitecore-rendering-new-options-content-dependencies.JPG)
 
 Sitecore-rendering-new-options-content-dependencies
 
